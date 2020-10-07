@@ -1,0 +1,16 @@
+com\prakash\springtask\service\EmployeeService.class
+com\prakash\springtask\web\MainController.class
+com\prakash\springtask\model\User.class
+com\prakash\springtask\repository\UserRepository.class
+com\prakash\springtask\SpringBootCrudTask.class
+com\prakash\springtask\model\Employee.class
+com\prakash\springtask\web\EmployeeManagementController.class
+com\prakash\springtask\service\UserServiceImpl.class
+com\prakash\springtask\repository\EmployeeRepository.class
+com\prakash\springtask\config\SecurityConfiguration.class
+com\prakash\springtask\service\UserService.class
+com\prakash\springtask\web\dto\EmployeeDTO.class
+com\prakash\springtask\web\UserRegistrationController.class
+com\prakash\springtask\service\EmployeeServiceImpl.class
+com\prakash\springtask\web\dto\UserRegistrationDto.class
+com\prakash\springtask\model\Role.class
